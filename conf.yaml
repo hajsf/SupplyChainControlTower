@@ -1,0 +1,6 @@
+type: update
+sql: 
+  SELECT * 
+  FROM student 
+  ORDER BY name del
+  
